@@ -8,4 +8,4 @@
 8. Cоздать аккаунт в Academia.edu: https://www.academia.edu/
 9. Cоздать аккаунт в ORCID: http://orcid.org/
 10. Создать аккаунт в ResearcherID: http://www.researcherid.com/
-11. Создать аккаунт в ResearcherID: https://www.linkedin.com/
+11. Создать аккаунт в LinkedIn: https://www.linkedin.com/
