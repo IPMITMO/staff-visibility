@@ -9,3 +9,7 @@
 9. Cоздать аккаунт в ORCID: http://orcid.org/
 10. Создать аккаунт в ResearcherID: http://www.researcherid.com/
 11. Создать аккаунт в LinkedIn: https://www.linkedin.com/
+
+## Полезные ссылки
+
+Справка о системах регистрации авторов от СПбГУ: http://www.library.spbu.ru/blog/?page_id=4094
