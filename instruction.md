@@ -12,6 +12,6 @@
 
 ## Полезные ссылки
 
-Справка о системах регистрации авторов от СПбГУ: http://www.library.spbu.ru/blog/?page_id=4094    
-Обучающие материалы по работе в Web of Science, Scopus, Google Scholar и ORCID от НИУ ВШЭ: https://scientometrics.hse.ru/instructions
+* Справка о системах регистрации авторов от СПбГУ: http://www.library.spbu.ru/blog/?page_id=4094    
+* Обучающие материалы по работе в Web of Science, Scopus, Google Scholar и ORCID от НИУ ВШЭ: https://scientometrics.hse.ru/instructions
 
