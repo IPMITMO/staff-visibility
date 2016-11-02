@@ -9,6 +9,7 @@
 9. Cоздать аккаунт в ORCID: http://orcid.org/
 10. Создать аккаунт в ResearcherID: http://www.researcherid.com/
 11. Создать аккаунт в LinkedIn: https://www.linkedin.com/
+12. Внести информацию о всех социальных сетях (упомянутых выше) в свое Портфолио в ИСУ.
 
 ## Полезные ссылки
 
